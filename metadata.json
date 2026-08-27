@@ -1,0 +1,6 @@
+{
+  "name": "Smart Farm Harvest & Market Price Decision System",
+  "description": "An intelligent agricultural decision support system that calculates net profits across markets and recommends whether to sell now or wait based on price predictions, logistics, storage, and spoilage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
